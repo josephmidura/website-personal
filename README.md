@@ -1,2 +1,2 @@
-# Ancient backup for www.josephmidura.com
-CSS and html needs new backup
+#
+Ancient backup for www.josephmidura.com
